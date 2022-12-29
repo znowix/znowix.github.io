@@ -1,0 +1,89 @@
+
+  <nav class="navbar fixed-top navbar-expand-lg navbar p-md-3">
+
+    <div class="container-fluid">
+      <a href="#" class="navbar-brand text-uppercase navbar-dark">Znowix</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <div class="mx-auto"></div>
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a href="#" class="nav-link text-white text-uppercase">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link text-white text-uppercase">Insights</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link text-white text-uppercase">Industries</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link text-white text-uppercase">Services</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link text-white text-uppercase">Careers</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link text-white text-uppercase">About</a>
+        </li>
+
+      </ul>
+    </div>
+
+  </nav>
+
+    <!-- banner image -->
+
+  <!-- <div class="banner-image" id="szoxfit"> -->
+    <!-- <div class="content text-center">
+      <h1 class="text-white">hello</h1>
+    </div> -->
+    <!-- <div class="carousel-caption d-none d-md-block">
+      <h1>First slide label</h1>
+      <h5>Some representative placeholder content for the first slide.</h5>
+    </div>
+  </div> -->
+
+    <!-- class="bg-light" -->
+      <!-- Footer -->
+
+  <!-- <footer id="footer">
+
+  <p>© Copyright ZNOWIX CORPORATION</p>
+
+</footer> -->
+
+    <p>
+      <span>ZNOWIX CORPORATION &copy; 2022</span>
+          <a href="#" target="_blank" class="social">PRIVACY POLICY</a>
+    <a href="#" class="social">SOURCES</a>
+
+    dropdown-toggle
+
+     <li><hr class="dropdown-divider"></li>
+
+
+     -toggle
+
+               <!-- <li class="nav-item dropdown">
+            <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Industries
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>
+              <li><a class="dropdown-item" href="#">Coustom Solutions</a></li>
+              <li><a class="dropdown-item" href="#">Web Application</a></li>
+              <li><a class="dropdown-item" href="#">Database Management</a></li>
+              <li><a class="dropdown-item" href="#">Android Application</li>
+              <li><a class="dropdown-item" href="#">IOS Application</a></li>
+              <li><a class="dropdown-item" href="#">Windows Application</a></li>
+            </ul>
+          </li> -->
+
+          d-none
